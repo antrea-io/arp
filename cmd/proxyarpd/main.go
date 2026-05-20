@@ -8,8 +8,8 @@ import (
 	"net"
 	"net/netip"
 
-	"github.com/mdlayher/arp"
-	"github.com/mdlayher/ethernet"
+	"antrea.io/arp"
+	"antrea.io/ethernet"
 )
 
 var (

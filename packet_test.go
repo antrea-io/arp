@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mdlayher/ethernet"
+	"antrea.io/ethernet"
 )
 
 func TestNewPacket(t *testing.T) {

@@ -6,8 +6,8 @@ import (
 	"net/netip"
 	"time"
 
-	"github.com/mdlayher/ethernet"
-	"github.com/mdlayher/packet"
+	"antrea.io/ethernet"
+	"antrea.io/packet"
 )
 
 // errNoIPv4Addr is returned when an interface does not have an IPv4
