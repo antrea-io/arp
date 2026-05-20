@@ -1,4 +1,6 @@
-arp [![Build Status](https://travis-ci.org/mdlayher/arp.svg?branch=master)](https://travis-ci.org/mdlayher/arp) [![GoDoc](https://godoc.org/github.com/mdlayher/arp?status.svg)](https://godoc.org/github.com/mdlayher/arp) [![Go Report Card](https://goreportcard.com/badge/github.com/mdlayher/arp)](https://goreportcard.com/report/github.com/mdlayher/arp)
+> **Note:** This repository is a fork of `github.com/mdlayher/arp`, which is no longer actively maintained. The canonical maintained fork is at [github.com/antrea-io/arp](https://github.com/antrea-io/arp) under the [antrea-io](https://github.com/antrea-io) organization. The Go module path is `antrea.io/arp`.
+
+arp [![CI](https://github.com/antrea-io/arp/actions/workflows/ci.yml/badge.svg)](https://github.com/antrea-io/arp/actions) [![Go Reference](https://pkg.go.dev/badge/antrea.io/arp.svg)](https://pkg.go.dev/antrea.io/arp) [![Go Report Card](https://goreportcard.com/badge/github.com/antrea-io/arp)](https://goreportcard.com/report/github.com/antrea-io/arp)
 ===
 
 Package `arp` implements the ARP protocol, as described in RFC 826.

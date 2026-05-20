@@ -8,7 +8,7 @@ import (
 	"net"
 	"net/netip"
 
-	"github.com/mdlayher/ethernet"
+	"antrea.io/ethernet"
 )
 
 var (
